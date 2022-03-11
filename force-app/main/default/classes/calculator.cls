@@ -8,7 +8,7 @@ public with sharing class calculator {
     public integer sub(integer a, integer b){
         return a-b;
     }
-    publin integer mul(integer a, integer b){
+    public integer mul(integer a, integer b){
         return a*b;
     }
 }
